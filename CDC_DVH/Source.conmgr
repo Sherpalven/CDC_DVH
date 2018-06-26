@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="Source"
+  DTS:DTSID="{8163D0A6-1EE5-4B6C-9F6B-D9B0FAA4043A}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=AO-SXD8E-040;User ID=ao-3pSherpaConsult02;Initial Catalog=CDC_NO;Provider=SQLNCLI11.1;Persist Security Info=True;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAq84lnhdKvUGvDiliGMJccAAAAAACAAAAAAAQZgAAAAEAACAAAACxObkIzqUWNB//zVHa8l8C4cqYORmqve0FNHkeR6ax/wAAAAAOgAAAAAIAACAAAACdaZeBmyypIprr89eNzy8CC6NWXnOGkhLaXNY07Nf+wIAAAABKL+Wgo1rXeqZwz1qAjBgrXFIGTxG8gk51IVGVR9XkST/kVzZhQORYgftXNFKS3pV9mqOkv0kix+NClkkv12PDI1TbL4fwjXwA/ddeG7oMarmVNfymp4jLgD9FYdeGCTXLqT5DpgiFJkXZfnafi/Rs62i0rY7jol40iRpLaYoSyUAAAAA9Xi/zNSrHWm5bk1C6I2TMBFc0v1kyZYDLBNeGSTmQDy5KSAhzWUguYpS8XKSnTDp4AF9zTzZF+1uy0lFlsb+Y</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

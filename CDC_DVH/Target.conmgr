@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="Target"
+  DTS:DTSID="{B460609B-141C-4071-BE15-5B834D3283BD}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=sostestserver.database.windows.net;User ID=adminsostestserver;Initial Catalog=SOS_DVH;Provider=SQLNCLI11.1;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAq84lnhdKvUGvDiliGMJccAAAAAACAAAAAAAQZgAAAAEAACAAAACH6b/vE4KsGw+IDbwydIbDw3TNXVl8JHGntOGmwXhdYQAAAAAOgAAAAAIAACAAAABQHQcLBb6LhJqAwt55Uliyc3Sn6r1Sg+oLJA/XjDK7JYAAAACpIFMtfaM1y6/zNisOfKBJnOx+5oR1mbC1LNed31BGZ7q5/Cf/jT5Lvz75Na1AjLODSYKgjqwDydRlEo5PSKCnYMunp+7jjEJCh2wlbOKalVQVq2T6jUgZEpSj3b+00TZRACnL+qQpSGkrKdq/a7vXwNDmf5AH1la15FxDNnhyAkAAAAA0YajIdqeubkGA294c0jJvjPWQh9bcWswGad9a+/xPnhDDzYfDKnN61PFMunmDZ93Wo58NjgiE3UxvPTmBQEE0</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
